@@ -8,6 +8,8 @@ of another user. Like any other blockchain, these transactions will become a
 permanent immutable part of the ledger, protected by the hashes that link each
 block to the one that came before it in the chain.
 
+
+
 ## Contents
 
 - [Getting Started and Running Tests](#getting-started-and-running-tests)
